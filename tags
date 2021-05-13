@@ -1,0 +1,31 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/adam/tmp/type/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210110.0/
+#code	css/css.css	/^#code{$/;"	i
+AnonymousFunction58bf36390100	js/js.js	/^        setInterval(function(){$/;"	f	function:Cursor.blink
+AnonymousFunction58bf36390200	js/js.js	/^$('html').keydown(function(event){$/;"	f
+Code Ninja v1.0	index.html	/^    <h1>Code Ninja v1.0<\/h1>$/;"	h
+Cursor	js/js.js	/^class Cursor{$/;"	c
+Type	js/js.js	/^class Type{$/;"	c
+app	js/js.js	/^app = new Type();$/;"	v
+blink	js/js.js	/^    blink(){$/;"	m	class:Cursor
+code	index.html	/^    <p id="code"><\/p>$/;"	I
+constructor	js/js.js	/^    constructor(){$/;"	m	class:Cursor
+constructor	js/js.js	/^    constructor(){$/;"	m	class:Type
+cursor	js/js.js	/^let cursor = new Cursor();$/;"	v
+errorChar	js/js.js	/^        this.metadata = {errorChar: []}$/;"	p	class:Type.constructor.metadata
+h1	css/css.css	/^h1{$/;"	s
+initializeText	js/js.js	/^    initializeText(){$/;"	m	class:Type
+metadata	js/js.js	/^        this.metadata = {errorChar: []}$/;"	c	class:Type.constructor
+server	liveReload.py	/^server = Server()$/;"	v
+transferTOCharCode	js/js.js	/^    transferTOCharCode( word ){$/;"	m	class:Type
+updateWritingArea	js/js.js	/^    updateWritingArea(){$/;"	m	class:Type
+whichDirection	js/js.js	/^    whichDirection(){$/;"	m	class:Type
